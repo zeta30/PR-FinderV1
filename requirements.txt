@@ -1,0 +1,9 @@
+asgiref
+async-lru
+requests
+requests-oauthlib
+TgCrypto
+telethon
+requests
+requests[socks]
+psycopg2
